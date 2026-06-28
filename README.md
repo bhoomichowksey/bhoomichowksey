@@ -12,12 +12,16 @@
 
 ---
 
+<img align="right" alt="Bhoomi" width="280" src="https://github.com/user-attachments/assets/92e88c94-fd6f-4aa4-983f-31d52a30b154" />
+
 ## 🙋‍♀️ About Me
 
 - 🔭 Currently building **AI-powered tools** at the intersection of ML and real-world problems
 - 🌱 Exploring **LLMs, RAG pipelines, and intelligent ranking systems**
 - 💬 Ask me about **Python, ML pipelines, data analytics, or web development**
 - 🚀 Open to **SDE / Data Analyst / ML Engineer** roles
+
+<br clear="right"/>
 
 ---
 
