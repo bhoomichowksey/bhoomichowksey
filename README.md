@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/bhoomichowksey"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://huggingface.co/spaces/bhoomichowksey/redrob-ranker-demo"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
+  <a href="https://huggingface.co/bhoomichowksey"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
   <a href="mailto:bhoomichowksey@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
